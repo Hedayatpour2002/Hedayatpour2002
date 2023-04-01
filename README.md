@@ -18,13 +18,13 @@
 
 ## 🔗 Socials :
 
-<a href="https://instagram.com/hedayatpour2002">
+<a href="https://instagram.com/hedayatpour2002" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
 </a>
-<a href="https://linkedin.com/in/hedayatpour2002">
+<a href="https://linkedin.com/in/hedayatpour2002"  target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
 </a>
-<a href="https://twitter.com/hedayatpour2002">
+<a href="https://twitter.com/hedayatpour2002"  target="_blank">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white">
 </a>
 
@@ -40,7 +40,7 @@
 
 ## 🐦 Latest Tweet
 
-[![](https://gtce.itsvg.in/api?username=hedayatpour2002)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=hedayatpour2002)](https://twitter.com/hedayatpour2002)
 
 ---
 
