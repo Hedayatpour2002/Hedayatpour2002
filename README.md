@@ -12,13 +12,21 @@
 
 - 👨‍💻 All of my projects are available at [https://hedayatpour2002.com](https://hedayatpour2002.com)
 
-- 📫 How to reach me **Ahmadhedayatpour2002@gmail.com**
+- 📫 How to reach me **ahmadhedayatpour2002@gmail.com**
 
 - 📄 Know about my experiences [https://hedayatpour2002.com/resume](https://hedayatpour2002.com/resume)
 
 ## 🔗 Socials :
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hedayatpour2002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hedayatpour2002) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hedayatpour2002)
+<a href="https://instagram.com/hedayatpour2002">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+</a>
+<a href="https://linkedin.com/in/hedayatpour2002">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a>
+<a href="https://twitter.com/hedayatpour2002">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white">
+</a>
 
 ## 💻 Languages and Tools::
 
