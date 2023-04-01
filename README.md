@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 <h3 align="center">A passionate frontend developer from IRAN</h3>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer;React.js+Developer)](https://hedayatpour.com)
-
+<p align="center"> 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front-End+Developer;React.js+Developer)](https://hedayatpour.com)
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hedayatpour2002&label=Profile%20views&color=0e75b6&style=flat" alt="hedayatpour2002" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://hedayatpour.com](https://hedayatpour.com)
