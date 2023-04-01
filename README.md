@@ -6,16 +6,15 @@
 <h3 align="center">A passionate frontend developer from IRAN</h3>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://hedayatpour2002.com">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Front-End+Developer;React.js+Developer" /></a>
 </p>
 
-- 👨‍💻 All of my projects are available at [https://hedayatpour.com](https://hedayatpour.com)
+- 👨‍💻 All of my projects are available at [https://hedayatpour2002.com](https://hedayatpour2002.com)
 
 - 📫 How to reach me **Ahmadhedayatpour2002@gmail.com**
 
-- 📄 Know about my experiences [https://hedayatpour.com/resume](https://hedayatpour.com/resume)
+- 📄 Know about my experiences [https://hedayatpour2002.com/resume](https://hedayatpour2002.com/resume)
 
 ## 🔗 Socials :
 
